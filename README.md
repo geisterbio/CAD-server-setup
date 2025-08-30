@@ -1,2 +1,2 @@
-# ubuntu-CAD-server-setup
+# CAD-server-setup
 setup script for ubuntu CAD server
